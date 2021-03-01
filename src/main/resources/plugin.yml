@@ -1,0 +1,8 @@
+name: MyCustomItems
+version: ${project.version}
+main: at.auster.mycustomitems.MyCustomItems
+api-version: 1.16
+prefix: MCI
+depend: [ CustomItems ]
+authors: [ Austerzockt ]
+description: My Custom Plugin for Testing And Usage on My Servers
