@@ -2,14 +2,8 @@ package at.auster.mycustomitems;
 
 
 import at.auster.customitems.CustomItems;
-import io.github.classgraph.ClassGraph;
-import io.github.classgraph.ScanResult;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
-import org.checkerframework.checker.units.qual.C;
-
-import java.util.List;
-import java.util.stream.Collectors;
 
 public final class MyCustomItems extends JavaPlugin {
     public static JavaPlugin INSTANCE;
